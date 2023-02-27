@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository
+This repository is cloned from FreeCodecamp
 
 ## Course Outline
 
