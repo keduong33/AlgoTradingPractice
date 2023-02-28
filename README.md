@@ -1,6 +1,6 @@
 # Algorithmic Trading in Python
 
-This repository is cloned from FreeCodecamp & Completed by following its exercises
+This repository is cloned from FreeCodecamp & Completed by following its exercises (for the first three strategies)
 
 ## Course Outline
 
